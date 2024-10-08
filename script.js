@@ -1,4 +1,4 @@
-document.getElementById("message").innerText = "Hello, World!"; 
+document.getElementById("message").innerText = "Hello, Git and Vercel!"; 
 
 function sum(a, b) { 
     return a + b; 
